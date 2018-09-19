@@ -2,4 +2,8 @@ hello
 i
 change 1
 change 2
+<<<<<<< HEAD
 change  2222
+=======
+change 3
+>>>>>>> 8ccd648bd6a00c1d61a4aa5cdb6cb601cd2fab51
